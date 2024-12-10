@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui
+package com.bivalibrary.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,8 +8,8 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.arvind.jetcomposeloginui.navigation.Navigation
-import com.arvind.jetcomposeloginui.ui.theme.JetComposeLoginUITheme
+import com.bivalibrary.app.navigation.Navigation
+import com.bivalibrary.app.ui.theme.JetComposeLoginUITheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui
+package com.bivalibrary.app
 
 import org.junit.Test
 

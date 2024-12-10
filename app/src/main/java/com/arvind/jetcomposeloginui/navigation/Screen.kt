@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.navigation
+package com.bivalibrary.app.navigation
 
 sealed class Screen(val route: String) {
     object SplashScreen : Screen("splash_screen")

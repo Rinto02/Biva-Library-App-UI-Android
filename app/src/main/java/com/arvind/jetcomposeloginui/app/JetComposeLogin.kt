@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.app
+package com.bivalibrary.app.app
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

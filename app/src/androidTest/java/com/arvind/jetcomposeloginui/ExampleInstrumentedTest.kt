@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui
+package com.bivalibrary.app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.arvind.jetcomposeloginui", appContext.packageName)
+        assertEquals("com.bivalibrary.app", appContext.packageName)
     }
 }

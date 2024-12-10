@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.component
+package com.bivalibrary.app.component
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.Icon
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.arvind.jetcomposeloginui.ui.theme.dark_gray
+import com.bivalibrary.app.ui.theme.dark_gray
 
 @Composable
 fun TopAppBarWithBack(onBackClick: () -> Unit) {

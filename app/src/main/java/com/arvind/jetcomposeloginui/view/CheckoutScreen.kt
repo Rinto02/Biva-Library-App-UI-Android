@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.view
+package com.bivalibrary.app.view
 
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
@@ -25,8 +25,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
-import com.arvind.jetcomposeloginui.R
-import com.arvind.jetcomposeloginui.ui.theme.*
+import com.bivalibrary.app.R
+import com.bivalibrary.app.ui.theme.*
 
 @Preview(showBackground = true)
 @Composable

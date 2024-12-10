@@ -1,10 +1,10 @@
-package com.arvind.jetcomposeloginui.navigation
+package com.bivalibrary.app.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.arvind.jetcomposeloginui.view.*
+import com.bivalibrary.app.view.*
 
 @Composable
 fun Navigation() {

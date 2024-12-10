@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.view
+package com.bivalibrary.app.view
 
 
 import androidx.compose.animation.Crossfade
@@ -16,8 +16,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.arvind.jetcomposeloginui.R
-import com.arvind.jetcomposeloginui.ui.theme.colorPrimary
+import com.bivalibrary.app.R
+import com.bivalibrary.app.ui.theme.colorPrimary
 
 @Composable
 fun Dashboard(

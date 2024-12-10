@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.view
+package com.bivalibrary.app.view
 
 import android.view.animation.OvershootInterpolator
 import androidx.compose.animation.core.Animatable
@@ -16,9 +16,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavController
-import com.arvind.jetcomposeloginui.R
-import com.arvind.jetcomposeloginui.navigation.Screen
-import com.arvind.jetcomposeloginui.utils.Constants
+import com.bivalibrary.app.R
+import com.bivalibrary.app.navigation.Screen
+import com.bivalibrary.app.utils.Constants
 import kotlinx.coroutines.delay
 
 @Composable

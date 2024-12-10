@@ -1,4 +1,4 @@
-package com.arvind.jetcomposeloginui.view
+package com.bivalibrary.app.view
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -24,10 +24,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.navigation.NavController
-import com.arvind.jetcomposeloginui.R
-import com.arvind.jetcomposeloginui.component.TopAppBarWithBack
-import com.arvind.jetcomposeloginui.navigation.Screen
-import com.arvind.jetcomposeloginui.ui.theme.*
+import com.bivalibrary.app.R
+import com.bivalibrary.app.component.TopAppBarWithBack
+import com.bivalibrary.app.navigation.Screen
+import com.bivalibrary.app.ui.theme.*
 
 @Composable
 fun FlowerDetailsScreen(navController: NavController) {
