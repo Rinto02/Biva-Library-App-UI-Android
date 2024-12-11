@@ -96,4 +96,5 @@ dependencies {
 }
 kapt {
     correctErrorTypes = true
+    android.buildFeatures.buildConfig = true
 }
